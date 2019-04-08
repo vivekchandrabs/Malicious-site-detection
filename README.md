@@ -54,7 +54,7 @@ This will open the Jupyter Notebook software and project file in your browser.
       "TYPE"
 
 ## Models trained on:
-| Algorithm                         | Accuracy|
-| --- | --- | 
-| Neural Network               | 98.60 % |
+| Algorithm                         | Accuracy| Validation Accuracy | 
+| --- | --- | --- |
+| Neural Network               | 99.22% | 97.20% |
 
