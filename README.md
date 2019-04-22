@@ -13,6 +13,9 @@ You will also need to have software installed to run and execute a Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
+## Dataset:
+This dataset is from kaggle. https://www.kaggle.com/xwolf12/malicious-and-benign-websites
+
 ## Code:
 
 Template code is provided in the “malicious site detection.ipynb” inside the code folder. This is done using keras.
@@ -23,7 +26,7 @@ Also include the data set “dataset23.csv” while running the code.
 
 In a anaconda promt or in the  terminal, navigate to the code folder and run one of the following commands:
 
-      jupyter notebook "malicious site detection.ipynb"
+      jupyter notebook "malicious_site_detection.ipynb"
       
 This will open the Jupyter Notebook software and project file in your browser.
 
@@ -51,7 +54,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ## Output variable (desired target):
 
-      "TYPE"
+      "TYPE" - Which tell if the site is malicious or benign. 1 for malicious and 0 for benign.
 
 ## Models trained on:
 | Algorithm                         | Accuracy| Validation Accuracy | 
