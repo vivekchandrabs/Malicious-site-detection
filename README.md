@@ -8,6 +8,7 @@ Malicious websites are of great concern due it is a problem to analyze one by on
 * Pandas 
 * Matplotlib
 * keras
+* Seaborn
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
