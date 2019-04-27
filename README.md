@@ -58,7 +58,7 @@ This will open the Jupyter Notebook software and project file in your browser.
       "TYPE" - This tells if the site is malicious or benign. 1 for malicious and 0 for benign.
 
 ## Models trained on:
-| Algorithm                         | Accuracy| Validation Accuracy | 
+| Training Model                         | Accuracy| Validation Accuracy | 
 | --- | --- | --- |
 | Neural Network               | 99.22% | 97.20% |
 
