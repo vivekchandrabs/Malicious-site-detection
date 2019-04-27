@@ -55,7 +55,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ## Output variable (desired target):
 
-      "TYPE" - Which tell if the site is malicious or benign. 1 for malicious and 0 for benign.
+      "TYPE" - This tells if the site is malicious or benign. 1 for malicious and 0 for benign.
 
 ## Models trained on:
 | Algorithm                         | Accuracy| Validation Accuracy | 
